@@ -273,7 +273,8 @@ Power BI was used to create an **interactive HR analytics dashboard**.
 
 # 📊 Dashboard Overview
 
-[!Dashboard](https://github.com/Anshpatel1825/HR-Employee-Attrition-Analytics-Dashboard/blob/main/Dashboard%20(1).png?raw=true)
+![Dashboard](https://github.com/Anshpatel1825/HR-Employee-Attrition-Analytics-Dashboard/blob/main/Dashboard%20(1).png?raw=true)
+
 [!Employee details](https://github.com/Anshpatel1825/HR-Employee-Attrition-Analytics-Dashboard/blob/main/Second%20Page.png?raw=true)
 The dashboard provides a **complete overview of workforce performance and attrition trends**.
 
